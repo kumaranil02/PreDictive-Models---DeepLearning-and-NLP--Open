@@ -4,3 +4,5 @@
 
 2. Base models using NLP for promoter detractor analysis of retail clothing data
 
+3. CNN base model for prediction of images. source of data (https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765) . Microsoft cats and dogs dataset.
+
