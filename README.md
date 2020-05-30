@@ -10,3 +10,5 @@
 
 5. Logistic model also tried with mnist data set
 
+6. Topic Modelling: Source from PYdata berlin 2017 conference
+
