@@ -8,7 +8,7 @@
 
 4. RNN model to predict handwritten digits using MNIST data set
 
-5. Logistic model also tried with mnist data set
+5. Logistic model is also tried on mnist data set
 
 6. Topic Modelling: Source from PYdata berlin 2017 conference
 
